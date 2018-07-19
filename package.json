@@ -1,0 +1,19 @@
+{
+  "name": "uk-drivers-license",
+  "version": "1.0.0",
+  "description": "A kata on building a driver's license generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandlerroth/uk-drivers-license.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chandlerroth/uk-drivers-license/issues"
+  },
+  "homepage": "https://github.com/chandlerroth/uk-drivers-license#readme"
+}
