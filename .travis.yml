@@ -1,0 +1,13 @@
+{
+  "os": "linux",
+  "dist": "trusty",
+  "group": "stable",
+  "script": [
+    "npm test"
+  ],
+  "node_js": 7,
+  "language": "node_js",
+  "before_script": [
+    "npm install"
+  ]
+}
